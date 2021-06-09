@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CZsBarhaqx4OxpiJvO+h6i85O8tSTv7oImw7F6b7KWr6LMBZMHZ5W7iDLjz4b3Qrbp34adq4GsHTkbnWQk2vWg==",
+  "dgSpecHash": "PGUNww5dCj8mgf3oajGgYKZDZzRhN+PqNL1cbZ9jV8Gj7bbqZYOYbujHN/Xq2jN6gzUqTXc9HynrHDIBTCF2jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\www\\RobotsAPI\\RobotsAPI\\RobotsAPI.csproj",
+  "projectFilePath": "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\robots\\www\\RobotsAPI\\RobotsAPI\\RobotsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Robbe\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.7\\microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
     "C:\\Users\\Robbe\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.7\\microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",

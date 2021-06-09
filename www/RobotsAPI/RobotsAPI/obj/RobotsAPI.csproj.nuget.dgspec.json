@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\www\\RobotsAPI\\RobotsAPI\\RobotsAPI.csproj": {}
+    "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\robots\\www\\RobotsAPI\\RobotsAPI\\RobotsAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\www\\RobotsAPI\\RobotsAPI\\RobotsAPI.csproj": {
+    "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\robots\\www\\RobotsAPI\\RobotsAPI\\RobotsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\www\\RobotsAPI\\RobotsAPI\\RobotsAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\robots\\www\\RobotsAPI\\RobotsAPI\\RobotsAPI.csproj",
         "projectName": "RobotsAPI",
-        "projectPath": "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\www\\RobotsAPI\\RobotsAPI\\RobotsAPI.csproj",
+        "projectPath": "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\robots\\www\\RobotsAPI\\RobotsAPI\\RobotsAPI.csproj",
         "packagesPath": "C:\\Users\\Robbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\www\\RobotsAPI\\RobotsAPI\\obj\\",
+        "outputPath": "C:\\Users\\Robbe\\Documents\\3ITF\\react\\SourceCode\\robots\\www\\RobotsAPI\\RobotsAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
